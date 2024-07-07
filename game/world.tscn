@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://dvrrlestlvw43"]
+
+[node name="Terrain3D" type="Terrain3D"]
